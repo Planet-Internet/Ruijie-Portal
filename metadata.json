@@ -1,0 +1,5 @@
+{
+  "name": "Planet Wifi Portal",
+  "description": "A custom Ruijie captive portal for Planet Wifi with Voucher and Account login options.",
+  "requestFramePermissions": []
+}
